@@ -1,7 +1,7 @@
 """
 demo_mortgage_payment_optimization.py </br>
 
-Numerical optimization to find the optimum way for the quickest reduction in the mortage debt \ </br>
+Numerical optimization to find the optimum way for the quickest reduction in the mortage debt </br>
     while keeping the monthly payments as low as possible. </br>
     
 Set lambda1 and lambda2 according to your priorities. </br>
