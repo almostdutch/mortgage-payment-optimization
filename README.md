@@ -21,5 +21,5 @@ minimize: </br>
     f(X_debt, X_repayment) = 1 / 2 * (lambda1 * X_debt.T @ X_debt + lambda2 * X_repayment.T @ X_repayment); </br>      
 subject to: </br> 
     X_debt(new) = (1 + interest / (100 * 12))  * X_debt(old) - X_repayment; </br>
-</br>
+
 """
